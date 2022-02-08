@@ -1,3 +1,3 @@
 # Project Notebooks
 
-This repository contains several Jupyter Notebooks documenting workflows that I have either developed soley or in collaboration with colleagues at the University of Texas at Austin. Questions regarding the workflows or data analyzed in these notebooks can be directed to <cole.speed@beg.utexas.edu>.
+This repository is where I store example Jupyter notebooks and documents of python and GIS-based workflows. Several are collaborations with colleagues at UT-Austin. Questions regarding the workflows or data analyzed in these notebooks can be directed to <cole.speed@beg.utexas.edu>.
